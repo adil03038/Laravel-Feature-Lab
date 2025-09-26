@@ -10,5 +10,6 @@ Each solution is in its own branch.
 1. Clone repo  
 2. Checkout branch for the feature you want to test:  
    ```bash
-   git checkout stripe-integration
+   git checkout branch-name
+   composer install
    php artisan serve
